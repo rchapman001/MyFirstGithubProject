@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package edu.csbsju.cs;
    // the classes in this file are part of this package
 
@@ -44,3 +45,4 @@ public class Employee
    private double salary;
    private Date hireDay;
 }
+
